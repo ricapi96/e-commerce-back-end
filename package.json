@@ -4,6 +4,7 @@
   "description": "A back end for an e-commerce website",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "npm run seed"
   },
   "repository": {
