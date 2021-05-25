@@ -10,7 +10,6 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demos](#demos)
 * [Walkthrough-video](#walkthrough-video)
 * [License](#license)
 * [Badge](#badge)
@@ -20,21 +19,27 @@
 
 To install, run the following command:  
 ```
-
+npm i, npm mysql2, and npm sequelize
 ```
 
 
 ## Usage 
 
+To run this program:
+```
+npm start
+```
 
+To run the schema from MySQL:
+```
+source db/schema.sql;
+```
 
-## Demos
+To seed the data:
+```
+npm run seed
+```
 
-![Demo-1](./Assets/demo-1.gif)
-
-![Demo-2](./Assets/demo-2.gif)
-
-![Demo-3](./Assets/demo-3.gif)
 
 ## Walkthrough-video
 
