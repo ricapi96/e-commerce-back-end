@@ -30,10 +30,6 @@ To run this program:
 npm start
 ```
 
-To run the schema from MySQL:
-```
-source db/schema.sql;
-```
 
 To seed the data:
 ```
@@ -42,7 +38,7 @@ npm run seed
 
 
 ## Walkthrough-video
-
+https://youtu.be/jSvWpXaKaak
 
 ## License
 
