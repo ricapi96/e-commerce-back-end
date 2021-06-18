@@ -14,10 +14,6 @@
   },
   "author": "Erica Roquemore",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ricapi96/e-commerce-back-end/issues"
-  },
-  "homepage": "https://github.com/ricapi96/e-commerce-back-end#readme",
   "dependencies": {
     "dotenv": "^9.0.2",
     "mysql2": "^2.2.5",
