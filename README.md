@@ -4,6 +4,7 @@
 
 ## Description
 
+E-Commerce Back End Application using Express.js API along with Sequelize, to interact with a MySql database.
 
 
 ## Table of Contents 
@@ -19,7 +20,7 @@
 
 To install, run the following command:  
 ```
-npm i, npm mysql2, and npm sequelize
+npm i
 ```
 
 
@@ -38,7 +39,7 @@ npm run seed
 
 
 ## Walkthrough-video
-https://youtu.be/jSvWpXaKaak
+https://www.youtube.com/watch?v=rNnB4Son3rE
 
 ## License
 
