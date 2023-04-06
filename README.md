@@ -13,7 +13,6 @@ E-Commerce Back End Application using Express.js API along with Sequelize, to in
 * [Usage](#usage)
 * [Walkthrough-video](#walkthrough-video)
 * [License](#license)
-* [Badge](#badge)
 * [Questions](#questions)
 
 ## Installation
@@ -45,11 +44,6 @@ https://www.youtube.com/watch?v=rNnB4Son3rE
 
 MIT
 https://opensource.org/licenses/MIT
-
-
-## Badge
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 ## Questions
